@@ -3,6 +3,11 @@
 Anti-Grain Geometry library, written by Maxim Shemanarev in C++. It is an Open Source, 2D vector graphics library.
 Agg produces pixel images in memory from vectorial data.
 
+## About the Fork
+This fork is a cleanup of the original project, indeed removing the docs and the website.
+
+Sources are now located in the root, for easier CMake integration as a dependency.
+
 ## About the Project
 Anti-Grain Geometry (AGG) is an Open Source, free of charge graphic library, written in industrially standard C++. The terms and conditions of use AGG are described on The License page. AGG doesn't depend on any graphic API or technology. Basically, you can think of AGG as of a rendering engine that produces pixel images in memory from some vectorial data. But of course, AGG can do much more than that. The ideas and the philosophy of AGG are:
 

@@ -1,0 +1,682 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-717d72e84074b747d7c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-b7229352befd13d8b119.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						6,
+						15,
+						52
+					]
+				},
+				{
+					"build" : "examples",
+					"jsonFile" : "directory-examples-Debug-1c8b83b621b6ef38a245.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						48,
+						49,
+						50,
+						51,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62
+					]
+				},
+				{
+					"build" : "myapp",
+					"jsonFile" : "directory-myapp-Debug-8353a2e4fb8bc1e1affb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "myapp",
+					"targetIndexes" : 
+					[
+						47
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "antigrain",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "MyAggApp",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						47
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "aa_demo::@714eac15f71a94114fdf",
+					"jsonFile" : "target-aa_demo-Debug-080556b7a69e14cd1dfe.json",
+					"name" : "aa_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "aa_test::@714eac15f71a94114fdf",
+					"jsonFile" : "target-aa_test-Debug-bfc02b19de0b4c81efa8.json",
+					"name" : "aa_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "alpha_gradient::@714eac15f71a94114fdf",
+					"jsonFile" : "target-alpha_gradient-Debug-7ab27c53c48fa8a27847.json",
+					"name" : "alpha_gradient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "alpha_mask::@714eac15f71a94114fdf",
+					"jsonFile" : "target-alpha_mask-Debug-598ff8ba19cc7fdeea56.json",
+					"name" : "alpha_mask",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "alpha_mask2::@714eac15f71a94114fdf",
+					"jsonFile" : "target-alpha_mask2-Debug-5dd4352ba4b13d8af4d6.json",
+					"name" : "alpha_mask2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "alpha_mask3::@714eac15f71a94114fdf",
+					"jsonFile" : "target-alpha_mask3-Debug-95524ce68ba6dc6d6df1.json",
+					"name" : "alpha_mask3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "antigrain::@145eef247bfb46b6828c",
+					"jsonFile" : "target-antigrain-Debug-a3935f19a29413de72a1.json",
+					"name" : "antigrain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bezier_div::@714eac15f71a94114fdf",
+					"jsonFile" : "target-bezier_div-Debug-ae8b6a535354d0d53bde.json",
+					"name" : "bezier_div",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "blend_color::@714eac15f71a94114fdf",
+					"jsonFile" : "target-blend_color-Debug-11dae86559912f12baca.json",
+					"name" : "blend_color",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "blur::@714eac15f71a94114fdf",
+					"jsonFile" : "target-blur-Debug-3e0e7f4a8f63505f6d6a.json",
+					"name" : "blur",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bspline::@714eac15f71a94114fdf",
+					"jsonFile" : "target-bspline-Debug-1414db49949c63c69ad1.json",
+					"name" : "bspline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "circles::@714eac15f71a94114fdf",
+					"jsonFile" : "target-circles-Debug-d8d4321d62489f4440ac.json",
+					"name" : "circles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "component_rendering::@714eac15f71a94114fdf",
+					"jsonFile" : "target-component_rendering-Debug-bb69623a29ab44b80dcb.json",
+					"name" : "component_rendering",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "compositing::@714eac15f71a94114fdf",
+					"jsonFile" : "target-compositing-Debug-ed92ca7e89350f376ad1.json",
+					"name" : "compositing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "compositing2::@714eac15f71a94114fdf",
+					"jsonFile" : "target-compositing2-Debug-d684467162ebdb6c9dd2.json",
+					"name" : "compositing2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "controls::@145eef247bfb46b6828c",
+					"jsonFile" : "target-controls-Debug-6c870205e8b27f76e1d9.json",
+					"name" : "controls",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "conv_contour::@714eac15f71a94114fdf",
+					"jsonFile" : "target-conv_contour-Debug-5e3a1b3b5fd33777140b.json",
+					"name" : "conv_contour",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "conv_dash_marker::@714eac15f71a94114fdf",
+					"jsonFile" : "target-conv_dash_marker-Debug-99b16ccfdbea1421b4ed.json",
+					"name" : "conv_dash_marker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "conv_stroke::@714eac15f71a94114fdf",
+					"jsonFile" : "target-conv_stroke-Debug-a3761c3c6978521e1303.json",
+					"name" : "conv_stroke",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "distortions::@714eac15f71a94114fdf",
+					"jsonFile" : "target-distortions-Debug-6638259c1fa736a393da.json",
+					"name" : "distortions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "flash_rasterizer::@714eac15f71a94114fdf",
+					"jsonFile" : "target-flash_rasterizer-Debug-f0a9ba8b18db33bed0a9.json",
+					"name" : "flash_rasterizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "flash_rasterizer2::@714eac15f71a94114fdf",
+					"jsonFile" : "target-flash_rasterizer2-Debug-485680978ea4cf2d6a27.json",
+					"name" : "flash_rasterizer2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gamma_correction::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gamma_correction-Debug-6ded07dd551029454f52.json",
+					"name" : "gamma_correction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gamma_ctrl::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gamma_ctrl-Debug-baca12148e92662482c3.json",
+					"name" : "gamma_ctrl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gamma_tuner::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gamma_tuner-Debug-026154df4d5b5278c663.json",
+					"name" : "gamma_tuner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gouraud::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gouraud-Debug-40259e6db2f4d4b1a520.json",
+					"name" : "gouraud",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gouraud_mesh::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gouraud_mesh-Debug-1ac7d6d287d118c52ff3.json",
+					"name" : "gouraud_mesh",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gradient_focal::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gradient_focal-Debug-14d8b5aab4c261dff134.json",
+					"name" : "gradient_focal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gradients::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gradients-Debug-dc979db72b85d35c6853.json",
+					"name" : "gradients",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gradients_contour::@714eac15f71a94114fdf",
+					"jsonFile" : "target-gradients_contour-Debug-2bb265a7ef11410aed05.json",
+					"name" : "gradients_contour",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "graph_test::@714eac15f71a94114fdf",
+					"jsonFile" : "target-graph_test-Debug-83d376fb96296994b023.json",
+					"name" : "graph_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "idea::@714eac15f71a94114fdf",
+					"jsonFile" : "target-idea-Debug-55205f103330d9927232.json",
+					"name" : "idea",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image1::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image1-Debug-64ca79fd3a0df867a9ee.json",
+					"name" : "image1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_alpha::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_alpha-Debug-5cb3211181bf8ca0b182.json",
+					"name" : "image_alpha",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_filters::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_filters-Debug-db0f7ddd1c83218a04b3.json",
+					"name" : "image_filters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_filters2::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_filters2-Debug-8d3a6a774192da1dca14.json",
+					"name" : "image_filters2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_fltr_graph::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_fltr_graph-Debug-624018acf8074aec91eb.json",
+					"name" : "image_fltr_graph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_perspective::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_perspective-Debug-9e766d4486c6575f0212.json",
+					"name" : "image_perspective",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_resample::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_resample-Debug-44cf5efcf6ad9449a6ff.json",
+					"name" : "image_resample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image_transforms::@714eac15f71a94114fdf",
+					"jsonFile" : "target-image_transforms-Debug-d231aa94dad980af0e5c.json",
+					"name" : "image_transforms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "line_patterns::@714eac15f71a94114fdf",
+					"jsonFile" : "target-line_patterns-Debug-008c0b33cbf1a94e689c.json",
+					"name" : "line_patterns",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "line_patterns_clip::@714eac15f71a94114fdf",
+					"jsonFile" : "target-line_patterns_clip-Debug-8fe36629ddd94fc1756c.json",
+					"name" : "line_patterns_clip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lion::@714eac15f71a94114fdf",
+					"jsonFile" : "target-lion-Debug-36a7c32b15cb57c4f805.json",
+					"name" : "lion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lion_lens::@714eac15f71a94114fdf",
+					"jsonFile" : "target-lion_lens-Debug-735a3451a140c7cfe9b6.json",
+					"name" : "lion_lens",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lion_outline::@714eac15f71a94114fdf",
+					"jsonFile" : "target-lion_outline-Debug-1a7aab6d035e09e64571.json",
+					"name" : "lion_outline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "mol_view::@714eac15f71a94114fdf",
+					"jsonFile" : "target-mol_view-Debug-740efceb613cc5125816.json",
+					"name" : "mol_view",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "multi_clip::@714eac15f71a94114fdf",
+					"jsonFile" : "target-multi_clip-Debug-4ed9ef6967a24bddf21d.json",
+					"name" : "multi_clip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "my_demo::@c134d258c825ceb83737",
+					"jsonFile" : "target-my_demo-Debug-abbdf7e9b7b9597939ff.json",
+					"name" : "my_demo",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pattern_fill::@714eac15f71a94114fdf",
+					"jsonFile" : "target-pattern_fill-Debug-e710d687f1a265125ac1.json",
+					"name" : "pattern_fill",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pattern_perspective::@714eac15f71a94114fdf",
+					"jsonFile" : "target-pattern_perspective-Debug-f6bf12a791cc9f5b075a.json",
+					"name" : "pattern_perspective",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pattern_resample::@714eac15f71a94114fdf",
+					"jsonFile" : "target-pattern_resample-Debug-4b369b27a21728383db9.json",
+					"name" : "pattern_resample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "perspective::@714eac15f71a94114fdf",
+					"jsonFile" : "target-perspective-Debug-bec9fe31ce1ba98eb01b.json",
+					"name" : "perspective",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "platform::@145eef247bfb46b6828c",
+					"jsonFile" : "target-platform-Debug-c50baa102f02166b93ea.json",
+					"name" : "platform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "polymorphic_renderer::@714eac15f71a94114fdf",
+					"jsonFile" : "target-polymorphic_renderer-Debug-85c87ad58c13f9217120.json",
+					"name" : "polymorphic_renderer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "raster_text::@714eac15f71a94114fdf",
+					"jsonFile" : "target-raster_text-Debug-8f246d5ba8c2190f2acb.json",
+					"name" : "raster_text",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rasterizer_compound::@714eac15f71a94114fdf",
+					"jsonFile" : "target-rasterizer_compound-Debug-ebc83ee29e83c17775d4.json",
+					"name" : "rasterizer_compound",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rasterizers::@714eac15f71a94114fdf",
+					"jsonFile" : "target-rasterizers-Debug-83fbc466c399eeab2dde.json",
+					"name" : "rasterizers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rasterizers2::@714eac15f71a94114fdf",
+					"jsonFile" : "target-rasterizers2-Debug-8f73d71a57c975acb71a.json",
+					"name" : "rasterizers2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "rounded_rect::@714eac15f71a94114fdf",
+					"jsonFile" : "target-rounded_rect-Debug-55684db5a3bef506d40c.json",
+					"name" : "rounded_rect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "scanline_boolean::@714eac15f71a94114fdf",
+					"jsonFile" : "target-scanline_boolean-Debug-cb819b696ba4781b4d5e.json",
+					"name" : "scanline_boolean",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "scanline_boolean2::@714eac15f71a94114fdf",
+					"jsonFile" : "target-scanline_boolean2-Debug-45a7e2f706538fa58cf5.json",
+					"name" : "scanline_boolean2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "simple_blur::@714eac15f71a94114fdf",
+					"jsonFile" : "target-simple_blur-Debug-10e426d2389002ca54a1.json",
+					"name" : "simple_blur",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "trans_polar::@714eac15f71a94114fdf",
+					"jsonFile" : "target-trans_polar-Debug-5d3e7aa46eff28887330.json",
+					"name" : "trans_polar",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lucas/dev/agg-2.6/agg-src/build",
+		"source" : "/Users/lucas/dev/agg-2.6/agg-src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

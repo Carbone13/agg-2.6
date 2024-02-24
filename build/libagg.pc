@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=/usr/local/bin
+libdir=/usr/local/lib
+includedir=/usr/local/include/agg2
+
+Name: libagg
+Description: Anti Grain Geometry - A High Quality Rendering Engine for C++
+Version: 
+Libs: -L${libdir} -Wl,-rpath,${exec_prefix}/lib -lagg
+Cflags: -I${includedir}

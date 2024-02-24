@@ -1,0 +1,722 @@
+[
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_arc.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_arc.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_arc.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_arc.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_arrowhead.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_arrowhead.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_arrowhead.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_arrowhead.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_bezier_arc.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_bezier_arc.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_bezier_arc.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_bezier_arc.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_bspline.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_bspline.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_bspline.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_bspline.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_curves.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_curves.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_curves.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_curves.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_embedded_raster_fonts.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_embedded_raster_fonts.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_embedded_raster_fonts.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_embedded_raster_fonts.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_gsv_text.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_gsv_text.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_gsv_text.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_gsv_text.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_image_filters.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_image_filters.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_image_filters.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_image_filters.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_line_aa_basics.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_line_aa_basics.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_line_aa_basics.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_line_aa_basics.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_line_profile_aa.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_line_profile_aa.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_line_profile_aa.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_line_profile_aa.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_rounded_rect.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_rounded_rect.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_rounded_rect.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_rounded_rect.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_sqrt_tables.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_sqrt_tables.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_sqrt_tables.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_sqrt_tables.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_trans_affine.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_affine.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_affine.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_trans_affine.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_trans_double_path.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_double_path.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_double_path.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_trans_double_path.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_trans_single_path.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_single_path.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_single_path.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_trans_single_path.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_trans_warp_magnifier.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_warp_magnifier.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_trans_warp_magnifier.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_trans_warp_magnifier.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vcgen_bspline.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_bspline.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_bspline.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vcgen_bspline.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vcgen_contour.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_contour.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_contour.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vcgen_contour.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vcgen_dash.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_dash.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_dash.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vcgen_dash.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vcgen_markers_term.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_markers_term.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_markers_term.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vcgen_markers_term.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vcgen_smooth_poly1.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_smooth_poly1.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_smooth_poly1.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vcgen_smooth_poly1.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vcgen_stroke.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_stroke.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vcgen_stroke.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vcgen_stroke.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vpgen_clip_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vpgen_clip_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vpgen_clip_polygon.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vpgen_clip_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/antigrain.dir/agg_vpgen_segmentator.o -c /Users/lucas/dev/agg-2.6/agg-src/src/agg_vpgen_segmentator.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/agg_vpgen_segmentator.cpp",
+  "output": "src/CMakeFiles/antigrain.dir/agg_vpgen_segmentator.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_spline_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_spline_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_spline_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_spline_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_slider_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_slider_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_slider_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_slider_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_scale_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_scale_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_scale_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_scale_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_rbox_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_rbox_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_rbox_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_rbox_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_polygon_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_polygon_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_polygon_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_polygon_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_gamma_spline.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_gamma_spline.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_gamma_spline.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_gamma_spline.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_gamma_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_gamma_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_gamma_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_gamma_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_cbox_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_cbox_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_cbox_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_cbox_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/controls.dir/ctrl/agg_bezier_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_bezier_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/ctrl/agg_bezier_ctrl.cpp",
+  "output": "src/CMakeFiles/controls.dir/ctrl/agg_bezier_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/platform.dir/platform/X11/agg_platform_support.o -c /Users/lucas/dev/agg-2.6/agg-src/src/platform/X11/agg_platform_support.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/platform/X11/agg_platform_support.cpp",
+  "output": "src/CMakeFiles/platform.dir/platform/X11/agg_platform_support.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/platform.dir/platform/mac/agg_mac_pmap.o -c /Users/lucas/dev/agg-2.6/agg-src/src/platform/mac/agg_mac_pmap.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/platform/mac/agg_mac_pmap.cpp",
+  "output": "src/CMakeFiles/platform.dir/platform/mac/agg_mac_pmap.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o src/CMakeFiles/platform.dir/platform/mac/agg_platform_support.o -c /Users/lucas/dev/agg-2.6/agg-src/src/platform/mac/agg_platform_support.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/src/platform/mac/agg_platform_support.cpp",
+  "output": "src/CMakeFiles/platform.dir/platform/mac/agg_platform_support.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/aa_demo.dir/aa_demo.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/aa_demo.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/aa_demo.cpp",
+  "output": "examples/CMakeFiles/aa_demo.dir/aa_demo.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/aa_test.dir/aa_test.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/aa_test.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/aa_test.cpp",
+  "output": "examples/CMakeFiles/aa_test.dir/aa_test.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_gradient.dir/alpha_gradient.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/alpha_gradient.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/alpha_gradient.cpp",
+  "output": "examples/CMakeFiles/alpha_gradient.dir/alpha_gradient.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask.dir/alpha_mask.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/alpha_mask.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/alpha_mask.cpp",
+  "output": "examples/CMakeFiles/alpha_mask.dir/alpha_mask.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/alpha_mask.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask2.dir/alpha_mask.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/alpha_mask.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/alpha_mask.cpp",
+  "output": "examples/CMakeFiles/alpha_mask2.dir/alpha_mask.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask2.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/alpha_mask2.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask3.dir/alpha_mask.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/alpha_mask.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/alpha_mask.cpp",
+  "output": "examples/CMakeFiles/alpha_mask3.dir/alpha_mask.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask3.dir/make_arrows.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/make_arrows.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/make_arrows.cpp",
+  "output": "examples/CMakeFiles/alpha_mask3.dir/make_arrows.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask3.dir/make_gb_poly.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/make_gb_poly.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/make_gb_poly.cpp",
+  "output": "examples/CMakeFiles/alpha_mask3.dir/make_gb_poly.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/alpha_mask3.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/alpha_mask3.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/bezier_div.dir/bezier_div.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/bezier_div.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/bezier_div.cpp",
+  "output": "examples/CMakeFiles/bezier_div.dir/bezier_div.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/bezier_div.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/bezier_div.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/blend_color.dir/blend_color.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/blend_color.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/blend_color.cpp",
+  "output": "examples/CMakeFiles/blend_color.dir/blend_color.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/blur.dir/blur.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/blur.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/blur.cpp",
+  "output": "examples/CMakeFiles/blur.dir/blur.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/bspline.dir/bspline.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/bspline.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/bspline.cpp",
+  "output": "examples/CMakeFiles/bspline.dir/bspline.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/bspline.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/bspline.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/circles.dir/circles.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/circles.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/circles.cpp",
+  "output": "examples/CMakeFiles/circles.dir/circles.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/component_rendering.dir/component_rendering.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/component_rendering.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/component_rendering.cpp",
+  "output": "examples/CMakeFiles/component_rendering.dir/component_rendering.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/compositing.dir/compositing.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/compositing.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/compositing.cpp",
+  "output": "examples/CMakeFiles/compositing.dir/compositing.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/compositing2.dir/compositing2.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/compositing2.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/compositing2.cpp",
+  "output": "examples/CMakeFiles/compositing2.dir/compositing2.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/conv_contour.dir/conv_contour.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/conv_contour.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/conv_contour.cpp",
+  "output": "examples/CMakeFiles/conv_contour.dir/conv_contour.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/conv_dash_marker.dir/conv_dash_marker.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/conv_dash_marker.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/conv_dash_marker.cpp",
+  "output": "examples/CMakeFiles/conv_dash_marker.dir/conv_dash_marker.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/conv_stroke.dir/conv_stroke.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/conv_stroke.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/conv_stroke.cpp",
+  "output": "examples/CMakeFiles/conv_stroke.dir/conv_stroke.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/distortions.dir/distortions.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/distortions.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/distortions.cpp",
+  "output": "examples/CMakeFiles/distortions.dir/distortions.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/flash_rasterizer.dir/flash_rasterizer.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/flash_rasterizer.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/flash_rasterizer.cpp",
+  "output": "examples/CMakeFiles/flash_rasterizer.dir/flash_rasterizer.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/flash_rasterizer2.dir/flash_rasterizer2.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/flash_rasterizer2.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/flash_rasterizer2.cpp",
+  "output": "examples/CMakeFiles/flash_rasterizer2.dir/flash_rasterizer2.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gamma_correction.dir/gamma_correction.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gamma_correction.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gamma_correction.cpp",
+  "output": "examples/CMakeFiles/gamma_correction.dir/gamma_correction.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gamma_ctrl.dir/gamma_ctrl.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gamma_ctrl.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gamma_ctrl.cpp",
+  "output": "examples/CMakeFiles/gamma_ctrl.dir/gamma_ctrl.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gamma_tuner.dir/gamma_tuner.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gamma_tuner.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gamma_tuner.cpp",
+  "output": "examples/CMakeFiles/gamma_tuner.dir/gamma_tuner.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gouraud.dir/gouraud.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gouraud.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gouraud.cpp",
+  "output": "examples/CMakeFiles/gouraud.dir/gouraud.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gouraud_mesh.dir/gouraud_mesh.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gouraud_mesh.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gouraud_mesh.cpp",
+  "output": "examples/CMakeFiles/gouraud_mesh.dir/gouraud_mesh.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gradients.dir/gradients.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gradients.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gradients.cpp",
+  "output": "examples/CMakeFiles/gradients.dir/gradients.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gradient_focal.dir/gradient_focal.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gradient_focal.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gradient_focal.cpp",
+  "output": "examples/CMakeFiles/gradient_focal.dir/gradient_focal.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gradients_contour.dir/gradients_contour.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/gradients_contour.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/gradients_contour.cpp",
+  "output": "examples/CMakeFiles/gradients_contour.dir/gradients_contour.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gradients_contour.dir/make_arrows.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/make_arrows.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/make_arrows.cpp",
+  "output": "examples/CMakeFiles/gradients_contour.dir/make_arrows.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gradients_contour.dir/make_gb_poly.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/make_gb_poly.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/make_gb_poly.cpp",
+  "output": "examples/CMakeFiles/gradients_contour.dir/make_gb_poly.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/gradients_contour.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/gradients_contour.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/graph_test.dir/graph_test.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/graph_test.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/graph_test.cpp",
+  "output": "examples/CMakeFiles/graph_test.dir/graph_test.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/idea.dir/idea.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/idea.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/idea.cpp",
+  "output": "examples/CMakeFiles/idea.dir/idea.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image1.dir/image1.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image1.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image1.cpp",
+  "output": "examples/CMakeFiles/image1.dir/image1.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_alpha.dir/image_alpha.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_alpha.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_alpha.cpp",
+  "output": "examples/CMakeFiles/image_alpha.dir/image_alpha.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_filters.dir/image_filters.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_filters.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_filters.cpp",
+  "output": "examples/CMakeFiles/image_filters.dir/image_filters.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_filters2.dir/image_filters2.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_filters2.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_filters2.cpp",
+  "output": "examples/CMakeFiles/image_filters2.dir/image_filters2.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_fltr_graph.dir/image_fltr_graph.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_fltr_graph.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_fltr_graph.cpp",
+  "output": "examples/CMakeFiles/image_fltr_graph.dir/image_fltr_graph.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_perspective.dir/image_perspective.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_perspective.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_perspective.cpp",
+  "output": "examples/CMakeFiles/image_perspective.dir/image_perspective.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_perspective.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/image_perspective.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_resample.dir/image_resample.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_resample.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_resample.cpp",
+  "output": "examples/CMakeFiles/image_resample.dir/image_resample.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_resample.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/image_resample.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/image_transforms.dir/image_transforms.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/image_transforms.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/image_transforms.cpp",
+  "output": "examples/CMakeFiles/image_transforms.dir/image_transforms.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/line_patterns.dir/line_patterns.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/line_patterns.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/line_patterns.cpp",
+  "output": "examples/CMakeFiles/line_patterns.dir/line_patterns.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/line_patterns_clip.dir/line_patterns_clip.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/line_patterns_clip.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/line_patterns_clip.cpp",
+  "output": "examples/CMakeFiles/line_patterns_clip.dir/line_patterns_clip.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/lion.dir/lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/lion.cpp",
+  "output": "examples/CMakeFiles/lion.dir/lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/lion.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/lion.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/lion_lens.dir/lion_lens.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/lion_lens.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/lion_lens.cpp",
+  "output": "examples/CMakeFiles/lion_lens.dir/lion_lens.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/lion_lens.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/lion_lens.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/lion_outline.dir/lion_outline.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/lion_outline.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/lion_outline.cpp",
+  "output": "examples/CMakeFiles/lion_outline.dir/lion_outline.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/lion_outline.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/lion_outline.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/mol_view.dir/mol_view.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/mol_view.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/mol_view.cpp",
+  "output": "examples/CMakeFiles/mol_view.dir/mol_view.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/multi_clip.dir/multi_clip.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/multi_clip.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/multi_clip.cpp",
+  "output": "examples/CMakeFiles/multi_clip.dir/multi_clip.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/multi_clip.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/multi_clip.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/pattern_fill.dir/pattern_fill.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/pattern_fill.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/pattern_fill.cpp",
+  "output": "examples/CMakeFiles/pattern_fill.dir/pattern_fill.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/pattern_perspective.dir/pattern_perspective.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/pattern_perspective.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/pattern_perspective.cpp",
+  "output": "examples/CMakeFiles/pattern_perspective.dir/pattern_perspective.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/pattern_perspective.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/pattern_perspective.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/pattern_resample.dir/pattern_resample.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/pattern_resample.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/pattern_resample.cpp",
+  "output": "examples/CMakeFiles/pattern_resample.dir/pattern_resample.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/pattern_resample.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/pattern_resample.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/perspective.dir/perspective.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/perspective.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/perspective.cpp",
+  "output": "examples/CMakeFiles/perspective.dir/perspective.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/perspective.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/perspective.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/perspective.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/perspective.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/polymorphic_renderer.dir/polymorphic_renderer.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/polymorphic_renderer.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/polymorphic_renderer.cpp",
+  "output": "examples/CMakeFiles/polymorphic_renderer.dir/polymorphic_renderer.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/rasterizers.dir/rasterizers.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/rasterizers.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/rasterizers.cpp",
+  "output": "examples/CMakeFiles/rasterizers.dir/rasterizers.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/rasterizers2.dir/rasterizers2.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/rasterizers2.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/rasterizers2.cpp",
+  "output": "examples/CMakeFiles/rasterizers2.dir/rasterizers2.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/rasterizer_compound.dir/rasterizer_compound.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/rasterizer_compound.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/rasterizer_compound.cpp",
+  "output": "examples/CMakeFiles/rasterizer_compound.dir/rasterizer_compound.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/raster_text.dir/raster_text.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/raster_text.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/raster_text.cpp",
+  "output": "examples/CMakeFiles/raster_text.dir/raster_text.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/rounded_rect.dir/rounded_rect.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/rounded_rect.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/rounded_rect.cpp",
+  "output": "examples/CMakeFiles/rounded_rect.dir/rounded_rect.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/scanline_boolean.dir/scanline_boolean.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/scanline_boolean.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/scanline_boolean.cpp",
+  "output": "examples/CMakeFiles/scanline_boolean.dir/scanline_boolean.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/scanline_boolean.dir/interactive_polygon.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/interactive_polygon.cpp",
+  "output": "examples/CMakeFiles/scanline_boolean.dir/interactive_polygon.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/scanline_boolean2.dir/scanline_boolean2.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/scanline_boolean2.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/scanline_boolean2.cpp",
+  "output": "examples/CMakeFiles/scanline_boolean2.dir/scanline_boolean2.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/scanline_boolean2.dir/make_arrows.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/make_arrows.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/make_arrows.cpp",
+  "output": "examples/CMakeFiles/scanline_boolean2.dir/make_arrows.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/scanline_boolean2.dir/make_gb_poly.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/make_gb_poly.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/make_gb_poly.cpp",
+  "output": "examples/CMakeFiles/scanline_boolean2.dir/make_gb_poly.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/simple_blur.dir/simple_blur.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/simple_blur.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/simple_blur.cpp",
+  "output": "examples/CMakeFiles/simple_blur.dir/simple_blur.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/simple_blur.dir/parse_lion.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/parse_lion.cpp",
+  "output": "examples/CMakeFiles/simple_blur.dir/parse_lion.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o examples/CMakeFiles/trans_polar.dir/trans_polar.o -c /Users/lucas/dev/agg-2.6/agg-src/examples/trans_polar.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/examples/trans_polar.cpp",
+  "output": "examples/CMakeFiles/trans_polar.dir/trans_polar.o"
+},
+{
+  "directory": "/Users/lucas/dev/agg-2.6/agg-src/build",
+  "command": "/usr/bin/clang++ -D__UNIX__ -I/Users/lucas/dev/agg-2.6/agg-src/include -I/Users/lucas/dev/agg-2.6/agg-src/font_freetype -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o myapp/CMakeFiles/my_demo.dir/my_demo.o -c /Users/lucas/dev/agg-2.6/agg-src/myapp/my_demo.cpp",
+  "file": "/Users/lucas/dev/agg-2.6/agg-src/myapp/my_demo.cpp",
+  "output": "myapp/CMakeFiles/my_demo.dir/my_demo.o"
+}
+]
